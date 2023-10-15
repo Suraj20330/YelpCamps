@@ -9000,3 +9000,10 @@ module.exports = [
     state: "Florida",
   },
 ];
+
+// git init
+// git add README.md
+// git commit -m "first commit"
+// git branch -M main
+// git remote add origin https://github.com/Suraj20330/YelpCamp_Project.git
+// git push -u origin main
